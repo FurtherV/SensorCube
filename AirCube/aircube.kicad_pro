@@ -982,7 +982,7 @@
         "uuid": "cda5c6c7-7f87-4911-9a6d-5f4a85bc513e"
       }
     ],
-    "used_designators": "S1-2,R1-5,#PWR1-19,J1-2,D1,C1-5,F1,U1-3",
+    "used_designators": "SW1-2,S1-2,USB1,R1-8,#PWR1-23,J1-2,D1,C1-8,F1,U1-4",
     "variants": []
   },
   "sheets": [

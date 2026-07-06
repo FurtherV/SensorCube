@@ -1,2 +1,4 @@
 aircube-backups
 *.csv
+*.db
+*.bak
