@@ -149,7 +149,7 @@
         "max_error": 0.005,
         "min_clearance": 0.125,
         "min_connection": 0.125,
-        "min_copper_edge_clearance": 0.3,
+        "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.3,
@@ -932,6 +932,12 @@
           "label": "Attrition Qty",
           "name": "Attrition Qty",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -982,7 +988,7 @@
         "uuid": "cda5c6c7-7f87-4911-9a6d-5f4a85bc513e"
       }
     ],
-    "used_designators": "SW1-2,S1-2,USB1,R1-8,#PWR1-23,J1-2,D1,C1-8,F1,U1-4",
+    "used_designators": "SW1-2,S1-2,JP1,USB1,R1-10,#PWR1-29,J1-2,D1-4,C1-10,F1,U1-4",
     "variants": []
   },
   "sheets": [
